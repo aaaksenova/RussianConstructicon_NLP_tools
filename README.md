@@ -1,4 +1,4 @@
 # RussianConstructicon_NLP_tools
 
 
-В этом репозитории собран код, использованный для разработки и анализа Русского Конструктикона.
+This repo contains the code for Russian Cunstructicon processing and basic analytics
